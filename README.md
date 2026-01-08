@@ -1,5 +1,5 @@
 # ESSE1012 Hands-On Practice
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dryongshengchen-code.github.io/ESSE1012)
+[![ESSE1012](https://img.shields.io/badge/Click%20To%20Start%20Practice-red?style=for-the-badge)](https://dryongshengchen-code.github.io/ESSE1012)
 
 
 ## Requirements
